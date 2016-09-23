@@ -1,6 +1,7 @@
 # Exercise 1a
 
 Tasks : 
+
 1. Create Github account
 
 2. Create a public repositoir
