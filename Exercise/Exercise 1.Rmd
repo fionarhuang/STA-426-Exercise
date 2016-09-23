@@ -1,0 +1,34 @@
+---
+title: "Exercise 1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Sampling
+
+This is to sample 1000 values from a log-normal distribution with mean 1 and standard deviation 0.25 
+
+```{r sample}
+x<-rlnorm(1000,meanlog = 1,sdlog = 0.25)
+
+```
+
+## Plots
+
+To see how the distribution look like, a histogram of the sample is plotted as below.
+
+```{r plot1, echo=TRUE,fig.cap="plot 1"}
+hist(x,breaks = 50,main="Histogram of sample")
+```
+
+The sample has mean `r round(mean(x),3) ` and variance `r round(var(x), 3)`.
+
+```{r plot2, echo=TRUE,fig.cap="plot 2"}
+hist(log(x),breaks = 50,main="Histogram of sample in log scale")
+
+```
+
+ After log-transformation, the transformed sample has mean `r round(mean(log(x)),3) ` and variance `r round(var(log(x)), 3)`.
