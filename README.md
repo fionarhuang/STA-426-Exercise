@@ -12,4 +12,4 @@ This is to do the exercise of STA 426. The slides of STA 426 could be found [her
 Rmarkdown supports dynamic output forms   
 ![alt tag](http://rmarkdown.rstudio.com/images/bandThree2.png)
 
-The pdf file created from Rmarkdown could be found [here](Exercise1b.pdf)
+The pdf file created from Rmarkdown could be found [here](https://github.com/fionarhuang/STA-426-Exercise/blob/master/Exercise/Exercise1b.pdf)
