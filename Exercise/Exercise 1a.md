@@ -2,10 +2,14 @@
 
 Tasks : 
 1. Create Github account
+
 2. Create a public repositoir
-3. Add a link 
+
+3. Add a link
+
 4. Add an image
 
+***
 
 ## Solution 
 1. Rmarkdown learning materials could be found [here](http://rmarkdown.rstudio.com/)
