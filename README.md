@@ -1,14 +1,7 @@
 # STA-426-Exercise
-This is to do the exercise of STA 426. The slides of STA 426 could be found [here](https://github.com/sta426hs2016/material)
+This is to submit the exercise of STA 426. 
 
-## Exercise 1
-1. Add a link and an image
-2. Learn how to use markdown
+***
 
-## Solution 
-1. How to add link [here](https://help.github.com/articles/relative-links-in-readmes/)
-2. How to add image [here](http://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github)
-3. How to use Rmarkdown [here](http://rmarkdown.rstudio.com/)
-4. Rmarkdown Reference guide [here](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-    
-![alt tag](http://rmarkdown.rstudio.com/images/bandThree2.png)
+1. Exercise 1a [here](https://github.com/fionarhuang/STA-426-Exercise/blob/master/Exercise/Exercise%201a.md)
+2. Exercise 1b : create pdf file from Rmarkdown [here](https://github.com/fionarhuang/STA-426-Exercise/blob/master/Exercise/Exercise1b.pdf)
