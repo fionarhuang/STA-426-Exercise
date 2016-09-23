@@ -9,6 +9,7 @@ This is to do the exercise of STA 426. The slides of STA 426 could be found [her
 1. How to add link [here](https://help.github.com/articles/relative-links-in-readmes/)
 2. How to add image [here](http://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github)
 3. How to use Rmarkdown [here](http://rmarkdown.rstudio.com/)
+
    Rmarkdown Reference guide [here](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
     
 ![alt tag](http://rmarkdown.rstudio.com/images/bandThree2.png)
