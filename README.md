@@ -1,5 +1,5 @@
 # STA-426-Exercise
-This is to do the exercise of STA 426. The slides of STA 426 could be found [here](https://github.com/sta426hs2016/material)
+This is to submit the exercise of STA 426. 
 
 ***
 
