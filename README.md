@@ -4,6 +4,7 @@ This is to do the exercise of STA 426. The slides of STA 426 could be found [her
 ## Exercise 1
 1. Add a link and an image
 2. Learn how to use markdown
+
 ## Solution to exercise 1
 1. [add link](https://help.github.com/articles/relative-links-in-readmes/)
    [add image](http://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github)
