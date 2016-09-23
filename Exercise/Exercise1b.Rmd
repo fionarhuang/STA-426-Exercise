@@ -1,6 +1,6 @@
 ---
 title: "Exercise 1"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -20,13 +20,13 @@ x<-rlnorm(1000,meanlog = 1,sdlog = 0.25)
 
 To see how the distribution look like, a histogram of the sample is plotted as below.
 
-```{r plot1, echo=TRUE,fig.cap="plot 1"}
+```{r plot1, echo=TRUE}
 hist(x,breaks = 50,main="Histogram of sample")
 ```
 
 The sample has mean `r round(mean(x),3) ` and variance `r round(var(x), 3)`.
 
-```{r plot2, echo=TRUE,fig.cap="plot 2"}
+```{r plot2, echo=TRUE}
 hist(log(x),breaks = 50,main="Histogram of sample in log scale")
 
 ```
